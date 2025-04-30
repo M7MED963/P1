@@ -32,3 +32,18 @@ python calculator.py
 
 ## 📄 License
 MIT
+
+---
+
+### 📄 4. `.gitignore`
+
+**📍Location**: `scientific-calculator/.gitignore`  
+**📄 What it does**: Ignores unnecessary files from Git
+
+```gitignore
+__pycache__/
+*.pyc
+*.log
+*.tmp
+.vscode/
+.env
