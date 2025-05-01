@@ -1,34 +1,37 @@
 # 🧮 Scientific Calculator (Python GUI)
 
-A desktop calculator with a graphical interface built using Python and tkinter.
+A modern, scientific calculator with a graphical interface built using Python and Tkinter.
 
 ## 🚀 Features
-- Basic arithmetic: +, -, *, /
-- Power: `^`
-- Square root: `√`
-- Logarithm: `log`, `ln`
-- Exponential: `e^`
-- Constants: π and e
-- Error handling
+- Basic arithmetic operations: `+`, `-`, `*`, `/`
+- Power and roots: `^`, `√`
+- Logarithmic functions: `log`, `ln`
+- Exponential functions: `e^x`
+- Constants: `π`, `e`
+- GUI with color-coded buttons
+- Supports parentheses for complex expressions
+
+## 📸 Screenshot
+
+Here’s what the calculator looks like:
+
+![Calculator GUI](calculator-screenshot.png)
 
 ## 🛠 How to Run
-Make sure you have Python 3 installed, then:
+
+Make sure Python 3 is installed on your system.
+
+Open a terminal in the project folder and run:
 
 ```bash
 python calculator.py
 ```
 
-## 🧪 Example Calculations
-- `2^3` → `8`
-- `√9` → `3`
-- `log1000` → `3`
-- `ln(e)` → `1`
-- `e^2` → `7.389`
-- `π * 2` → `6.28`
-
 ## 👨‍💻 Group Members
 - Your Name
-- Other Members...
+- Group Member 2
+- Group Member 3
+- Group Member 4
 
 ## 📄 License
 MIT
