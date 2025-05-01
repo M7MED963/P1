@@ -47,3 +47,7 @@ __pycache__/
 *.tmp
 .vscode/
 .env
+
+
+
+![calculator screenshot](https://github.com/user-attachments/assets/d402614f-e664-4f19-abb3-6470df1d3efc)
