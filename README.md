@@ -67,7 +67,8 @@ Here’s what the calculator looks like:
 
 ## 📊 Project Management
 
-🔗 GitHub Project Board: [Click here](https://github.com/M7MED963/scientific-calculator/projects/1)
+🔗 Project Board: [Click here](https://github.com/M7MED963/scientific-calculator/projects/1)
+
 
 We are using Issues + a Kanban board to track all tasks for the project.
 
